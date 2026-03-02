@@ -1,0 +1,33 @@
+body {
+ height: 100vh;
+ justify-content: center;
+ align-items: center;
+ display: flex;
+}
+
+.container {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+width: 80%;
+height:200px;
+background-color: blueviolet;
+
+padding: 20px; 
+}
+
+.box {
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    color: black;
+display:flex;
+margin: 10px;
+background-color: red;
+font-size:30px;
+height: 50px;
+}
+ 
+
+
